@@ -30,13 +30,14 @@ Building practical tools and web applications — with a focus on clean interfac
 - Interested in frontend experiences, backend systems, and automation.
 - Always learning, experimenting, and improving through real projects.
 
-## Featured projects
+## Live websites
+
+Only public projects hosted on GitHub Pages are featured here.
 
 | Project | What it does |
 | --- | --- |
 | [อีสาน Dev Tools](https://devgreenpink.github.io/dev-utility-toolkit/) | A browser-based developer toolkit with 40 tools across 7 categories. Client-side, no backend required. |
 | [3xxx-Words](https://devgreenpink.github.io/vocab-learning-app/) | An English vocabulary learning PWA with login, offline support, and responsive design. |
-| [Trading Journal UI](https://github.com/devGreenPink/trading-journal-ui) | An Angular 17 application for a trading journal. |
 
 ## Tech I work with
 
