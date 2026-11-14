@@ -40,16 +40,34 @@ Only public websites hosted on GitHub Pages are listed here.
 | **2. [Nearby](https://devgreenpink.github.io/nearby/)** | Share files and text directly between nearby devices in the browser — no install, no account, no file uploads. |
 | **3. [3xxx-Words](https://devgreenpink.github.io/vocab-learning-app/)** | An English vocabulary learning PWA with login, offline support, and responsive design. |
 
-## Tech I work with
+## Tech Stack
 
+### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=java,quarkus,angular,ts,js,html,css,git,github,firebase&theme=dark" alt="Technology icons" />
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" />
+  <a href="https://quarkus.io/"><img src="https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white" alt="Quarkus" /></a>
 </p>
 
-## GitHub activity
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css&theme=dark" alt="Angular, TypeScript, JavaScript, HTML, CSS" />
+</p>
+
+### Tools & Platform
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,firebase&theme=dark" alt="Git, GitHub, Firebase" />
+</p>
+
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=devGreenPink&theme=transparent&hide_border=true&ring=34d399&fire=22d3ee&currStreakLabel=34d399" alt="GitHub contribution streak" />
+  <a href="https://github.com/devGreenPink?tab=overview&from=2020-01-01&to=2026-12-31">
+    <img src="https://streak-stats.demolab.com?user=devGreenPink&theme=transparent&hide_border=true&ring=34d399&fire=22d3ee&currStreakLabel=34d399" alt="GitHub contribution streak" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>If the streak card doesn't load, you can still view my activity on <a href="https://github.com/devGreenPink">GitHub</a>.</sub>
 </p>
 
 ## Contribution snake
