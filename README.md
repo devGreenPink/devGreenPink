@@ -32,12 +32,13 @@ Building practical tools and web applications — with a focus on clean interfac
 
 ## Live websites
 
-Only public projects hosted on GitHub Pages are featured here.
+Only public websites hosted on GitHub Pages are listed here.
 
 | Project | What it does |
 | --- | --- |
-| [อีสาน Dev Tools](https://devgreenpink.github.io/dev-utility-toolkit/) | A browser-based developer toolkit with 40 tools across 7 categories. Client-side, no backend required. |
-| [3xxx-Words](https://devgreenpink.github.io/vocab-learning-app/) | An English vocabulary learning PWA with login, offline support, and responsive design. |
+| **1. [อีสาน Dev Tools](https://devgreenpink.github.io/dev-utility-toolkit/)** | A browser-based developer toolkit with 40 tools across 7 categories. Client-side, no backend required. |
+| **2. [Nearby](https://devgreenpink.github.io/nearby/)** | Share files and text directly between nearby devices in the browser — no install, no account, no file uploads. |
+| **3. [3xxx-Words](https://devgreenpink.github.io/vocab-learning-app/)** | An English vocabulary learning PWA with login, offline support, and responsive design. |
 
 ## Tech I work with
 
@@ -46,11 +47,6 @@ Only public projects hosted on GitHub Pages are featured here.
 </p>
 
 ## GitHub activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=devGreenPink&show_icons=true&hide_border=true&bg_color=0d1117&title_color=34d399&icon_color=22d3ee&text_color=c9d1d9&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devGreenPink&layout=compact&hide_border=true&bg_color=0d1117&title_color=34d399&text_color=c9d1d9" alt="Top languages" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=devGreenPink&theme=transparent&hide_border=true&ring=34d399&fire=22d3ee&currStreakLabel=34d399" alt="GitHub contribution streak" />
