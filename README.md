@@ -61,7 +61,7 @@ Only public websites hosted on GitHub Pages are listed here.
 ## 3D contribution graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devGreenPink/devGreenPink/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
 </p>
 
 ---
