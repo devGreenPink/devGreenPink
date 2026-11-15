@@ -37,7 +37,7 @@ Only public websites hosted on GitHub Pages are listed here.
 | Project | What it does |
 | --- | --- |
 | **1. [อีสาน Dev Tools](https://devgreenpink.github.io/dev-utility-toolkit/)** | A browser-based developer toolkit with 40 tools across 7 categories. Client-side, no backend required. |
-| **2. [Nearby](https://devgreenpink.github.io/nearby/)** | Share files and text directly between nearby devices in the browser — no install, no account, no file uploads. |
+| **2. [MooHao (หมู่เฮา)](https://devgreenpink.github.io/moohao/)** | Send files, photos and messages between iPhone, Android and computers right in the browser — no app, no account, nothing uploaded. Same Wi-Fi or anywhere with a room code, plus a chat for each device. *(formerly Nearby)* |
 | **3. [3xxx-Words](https://devgreenpink.github.io/vocab-learning-app/)** | An English vocabulary learning PWA with login, offline support, and responsive design. |
 
 ## Tech Stack
